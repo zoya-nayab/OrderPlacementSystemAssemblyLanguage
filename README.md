@@ -1,19 +1,6 @@
 # 🍔 Order Placement System — Aena's Cafe
 
-A **64-bit x86 Assembly Language** project that simulates a food ordering system for *Aena's Cafe*, built as part of the Computer Organization and Assembly Language course at **Institute of Business Management (IoBM)**.
-
----
-
-## 👥 Team Members
-
-| Name | Student ID |
-|------|-----------|
-| Zoya Nayab | 20231-34552 |
-
-
-**Course Instructor:** Muhammad Irtiza  
-**Course:** Computer Organization and Assembly Language — CSC211  
-**Semester:** Fall 2024
+A **64-bit x86 Assembly Language** project that simulates a food ordering system for *Aena's Cafe*.
 
 ---
 
